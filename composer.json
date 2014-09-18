@@ -1,6 +1,6 @@
 {
     "name": "zaalbarxx/flash",
-    "description": "",
+    "description": "Flash Messages for Laravel 4",
     "authors": [
         {
             "name": "Maksym Cierzniak",
